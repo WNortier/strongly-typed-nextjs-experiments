@@ -1,0 +1,26 @@
+.MuiDateCalendar-root .Mui-selected {
+    background: #04044B !important;
+    opacity: 0.7 !important;
+    color: white !important;
+    border-radius: 4px !important;
+}
+
+.MuiTypography-root.MuiTypography-caption {
+    font-weight: bold !important;
+    color: #04044B !important;
+
+    font-size: 13px !important;
+}
+
+.MuiButtonBase-root.MuiPickersDay-today {
+    background: #04044B !important;
+    opacity: 0.7 !important;
+    color: white !important;
+    /* border-radius: 4px !important; */
+
+}
+
+.MuiPickersArrowSwitcher-root {
+    display: flex !important;
+    justify-content: space-between;
+}
