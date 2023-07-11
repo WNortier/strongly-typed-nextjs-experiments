@@ -277,3 +277,4 @@ Its a lot like SSG where page is generated at site build, and cached on the serv
 - If you want to update data on an interval (e.g. every 30secs)
 # strongly-typed-nextjs-experiments
 # strongly-typed-nextjs-experiments
+# strongly-typed-nextjs-experiments
